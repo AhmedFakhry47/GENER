@@ -35,7 +35,7 @@ References and information about these datasources could be found in
 
 
 ## Model Results
-![GENER Results]([Plots/Model Results.png](https://github.com/AhmedFakhry47/GENER/blob/main/Plots/Model%20Results.png))
+![GENER Results](https://github.com/AhmedFakhry47/GENER/blob/main/Plots/Model%20Results.png)
 
 ## Contact
 ahmedfakhry@knu.ac.kr
