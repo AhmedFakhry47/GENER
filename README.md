@@ -25,7 +25,7 @@ References and information about these datasources could be found in
 | ------------- |:-------------:|
 | Interaction dataset  | [BioGRID](http://thebiogrid.org/) | 
 | Gene expression data     | [DREAM5 Challenge](http://dreamchallenges.org/project/dream-5-network-inference-challenge/)    |  
-| Gene expression & interaction data | [YEASTRACT] (http://www.yeastract.com) |  
+| Gene expression & interaction data | [YEASTRACT](http://www.yeastract.com) |  
 
 
 ## Settings
