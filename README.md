@@ -2,7 +2,7 @@
 A tensorflow implementation of our parallel deep learning network mentioned in our paper.
 
 ## Architecture of GNE
-![Architecture of GNE]([Plots/gener-model-plot.png](https://github.com/AhmedFakhry47/GENER/blob/main/Plots/gener-model-plot.png))
+![Architecture of GNE](https://github.com/AhmedFakhry47/GENER/blob/main/Plots/gener-model-plot.png)
 
 Our deep learning (DL) model is an ensemble learning architecture with two parallel branches (Figure 1), leveraging both convolutional neural networks (CNNs) and multi-layer feedforward neural networks (MFNNs). Specifically, we utilize CNNs to discern patterns and correlations among gene pairs within a vast dataset. Conversely, the MFNN takes as input the dot product of two gene expression vectors for each gene pair. Our network is trained through late fusion, where we combine the high-level features extracted from these two parallel branches.
 
